@@ -1,0 +1,3 @@
+GIT can be for any operating system
+To download git for windows:
+https://git-scm.com/download/win
